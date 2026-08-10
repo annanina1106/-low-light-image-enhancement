@@ -7,7 +7,8 @@ This project implements a multi-modal image enhancement system specifically targ
   2. **Structure:** Preserved using adaptive bilateral filtering and Sobel operators.
      
 These modalities are recombined using a weighted fusion strategy optimized with de-hazing and gamma recovery curves. The system is capable of handling single images, video files, and real-time webcam streams with YOLOv8 object detection integration.
-## Results The generated results can be accessed in the following directory: ./results
+## Results The generated results can be accessed in the following directory: 
+./assets
 ## **Key Features**
 - **Real-time Performance:** Optimized with Vectorized NumPy operations and OpenCV primitives for low-latency video processing.
   <img width="800" alt="image" src="https://github.com/user-attachments/assets/c9456a16-4b16-4d74-9200-b567dcf9d7a0" />
