@@ -5,13 +5,12 @@
 This project implements a multi-modal image enhancement system specifically targeted at low-light conditions. Adopting a "Divide and Conquer" strategy, we decouple the image into two orthogonal modalities:
   1. **Illumination:** Restored using an enhanced CLAHE pipeline with Region-Aware Masking and Auto-Gamma injection.
   2. **Structure:** Preserved using adaptive bilateral filtering and Sobel operators.
-     
+
 These modalities are recombined using a weighted fusion strategy optimized with de-hazing and gamma recovery curves. The system is capable of handling single images, video files, and real-time webcam streams with YOLOv8 object detection integration.
-## Results The generated results can be accessed in the following directory: 
-./assets
+
 ## **Key Features**
 - **Real-time Performance:** Optimized with Vectorized NumPy operations and OpenCV primitives for low-latency video processing.
-  <img width="800" alt="image" src="https://github.com/user-attachments/assets/c9456a16-4b16-4d74-9200-b567dcf9d7a0" />
+  https://github.com/user-attachments/assets/e142ca0b-a53c-413f-9a02-9011a4f8738e
 
 - **Interactive GUI:** Fine-tune parameters (Contrast, Detail, Color, Denoise) in real-time.
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/394d3cf9-52fb-4055-ab10-a87e4d636218" />
