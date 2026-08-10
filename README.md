@@ -69,7 +69,8 @@ python main.py
 ```
 
 **GUI Functionality:**
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/a1ebc063-7c7d-43be-9916-dbc5d63c66a0" />
+
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/a1ebc063-7c7d-43be-9916-dbc5d63c66a0" />
 
 - **Button 1 (Interactive GUI):** Adjust parameters manually to visualize the Illumination/Structure decomposition.
 
