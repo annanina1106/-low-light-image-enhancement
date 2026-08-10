@@ -10,19 +10,19 @@ These modalities are recombined using a weighted fusion strategy optimized with 
 
 ## **Key Features**
 - **Real-time Performance:** Optimized with Vectorized NumPy operations and OpenCV primitives for low-latency video processing.
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/c9456a16-4b16-4d74-9200-b567dcf9d7a0" />
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/c9456a16-4b16-4d74-9200-b567dcf9d7a0" />
 
 - **Interactive GUI:** Fine-tune parameters (Contrast, Detail, Color, Denoise) in real-time.
-  <img width="300" alt="image" src="https://github.com/user-attachments/assets/394d3cf9-52fb-4055-ab10-a87e4d636218" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/394d3cf9-52fb-4055-ab10-a87e4d636218" />
 
 - **Adaptive Enhancement:** "Auto Mode" automatically detects scene brightness and adjusts Gamma/Denoising parameters.
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/99028f4e-243a-4ecc-b948-c658f28ed58b" />
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/99028f4e-243a-4ecc-b948-c658f28ed58b" />
 - **YOLOv8 Integration:** Validates enhancement utility by running object detection on the enhanced stream.
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/f3d953f8-6d35-4bac-b46a-150dc28d971f" />
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/502d6af5-6d5c-4812-a5c8-68b501d2cd59" />
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/f3d953f8-6d35-4bac-b46a-150dc28d971f" />
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/502d6af5-6d5c-4812-a5c8-68b501d2cd59" />
 
 - **Quantitative Evaluation:** Built-in PSNR and SSIM calculation engine for objective benchmarking against Histogram Equalization (HE).
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/3d76aeb4-8cec-47bb-94f9-0da7b2f6473d" />
+  <img width="1000" alt="image" src="https://github.com/user-attachments/assets/3d76aeb4-8cec-47bb-94f9-0da7b2f6473d" />
 
 ## **Architecture**
 
