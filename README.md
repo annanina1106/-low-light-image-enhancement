@@ -13,7 +13,7 @@ These modalities are recombined using a weighted fusion strategy optimized with 
   <img width="2888" height="812" alt="image" src="https://github.com/user-attachments/assets/c9456a16-4b16-4d74-9200-b567dcf9d7a0" />
 
 - **Interactive GUI:** Fine-tune parameters (Contrast, Detail, Color, Denoise) in real-time.
-  <img width="1129" height="1105" alt="image" src="https://github.com/user-attachments/assets/394d3cf9-52fb-4055-ab10-a87e4d636218" />
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/394d3cf9-52fb-4055-ab10-a87e4d636218" />
 
 - **Adaptive Enhancement:** "Auto Mode" automatically detects scene brightness and adjusts Gamma/Denoising parameters.
   <img width="2640" height="972" alt="image" src="https://github.com/user-attachments/assets/99028f4e-243a-4ecc-b948-c658f28ed58b" />
