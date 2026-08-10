@@ -10,7 +10,8 @@ These modalities are recombined using a weighted fusion strategy optimized with 
 
 ## **Key Features**
 - **Real-time Performance:** Optimized with Vectorized NumPy operations and OpenCV primitives for low-latency video processing.
-  https://github.com/user-attachments/assets/e142ca0b-a53c-413f-9a02-9011a4f8738e
+
+https://github.com/user-attachments/assets/b30915fc-7e1d-40f0-9c7d-b0fa7fc986d0
 
 - **Interactive GUI:** Fine-tune parameters (Contrast, Detail, Color, Denoise) in real-time.
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/394d3cf9-52fb-4055-ab10-a87e4d636218" />
